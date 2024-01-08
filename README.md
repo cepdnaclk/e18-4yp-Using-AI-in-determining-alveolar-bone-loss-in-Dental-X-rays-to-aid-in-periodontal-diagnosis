@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Using Artificial Intelligence (AI) in determining alveolar bone loss in dental panoramic tomography (DPT) to aid in periodontal diagnosis
 ___
 
-## Please refer the instructions in below URL:
+## Introduction:
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+Teeth are supported by bone. Periodontal disease (PD) occurs when this bone is destroyed, resulting in loss of teeth. This is identified using radiographs. Severity of PD is calculated using the percentage of bone lost. AI can aid dental professionals to diagnose and monitor periodontitis precisely on panoramic radiographs and it may substantially improve dental professionals’ performance with regard to the diagnosis and treatment of periodontitis.
