@@ -9,7 +9,7 @@ title: Using Artificial Intelligence (AI) in determining alveolar bone loss in d
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Using Artificial Intelligence (AI) in determining alveolar bone loss in dental panoramic tomography (DPT) to aid in periodontal diagnosis
 
 #### Team
 
