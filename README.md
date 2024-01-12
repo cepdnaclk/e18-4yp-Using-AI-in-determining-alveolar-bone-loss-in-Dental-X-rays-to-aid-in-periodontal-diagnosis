@@ -1,5 +1,5 @@
 ___
-# Using Artificial Intelligence (AI) in determining alveolar bone loss in dental panoramic tomography (DPT) to aid in periodontal diagnosis
+# AI-assisted analysis of dental radiographs for detection of alveolar bone-loss magnitude and patterns
 ___
 
 ## Description:
