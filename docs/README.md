@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis
-title: Using Artificial Intelligence (AI) in determining alveolar bone loss in dental panoramic tomography (DPT) to aid in periodontal diagnosis
+repository-name: e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis
+title: AI-assisted analysis of dental radiographs for detection of alveolar bone-loss magnitude and patterns
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Using Artificial Intelligence (AI) in determining alveolar bone loss in dental panoramic tomography (DPT) to aid in periodontal diagnosis
+# AI-assisted analysis of dental radiographs for detection of alveolar bone-loss magnitude and patterns
 
 #### Team
 
