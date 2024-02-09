@@ -27,14 +27,8 @@ title: AI-assisted analysis of dental radiographs for detection of alveolar bone
 
 #### Table of content
 
-1. [Abstract](#abstract)
-2. [Related works](#related-works)
-3. [Methodology](#methodology)
-4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-5. [Results and Analysis](#results-and-analysis)
-6. [Conclusion](#conclusion)
-7. [Publications](#publications)
-8. [Links](#links)
+1. [Project Summary](#project-summary)
+2. [Links](#links)
 
 ---
 
@@ -45,8 +39,21 @@ This is a sample image, to show how to add images to your page. To learn more op
 -->
 
 
-## Abstract
+## Project Summary
 
+The alveolar bone is a crucial bone for supporting teeth. That can deteriorate due to various periodontal diseases, leading to significant complications. Dental professionals rely on radiographs to assess the severity of the condition. When evaluating these radiograph images, two primary factors are considered: the percentage of bone loss and the pattern of bone loss, which can be horizontal or angular (also known as vertical).
+
+Traditionally, dental practitioners manually measure these parameters using radiographs, such as dental panoramic tomography or intraoral radiographs. However, this method is prone to human errors and oversights.
+
+Early studies have suggested the potential of AI systems as decision-support tools for oral physicians. AI technology can assist in precisely diagnosing and monitoring periodontal conditions using panoramic radiographs, thereby enhancing the performance of dental professionals in diagnosing and treating periodontitis.
+
+This project aims to utilize artificial intelligence (AI) to determine the percentage of alveolar bone loss and identify the bone loss pattern from dental radiography images. Drawing upon related research and input from supervisors, we are conducting research to develop AI algorithms that can accurately analyze radiographs. By automating the process, we aim to minimize errors and improve efficiency in diagnosing periodontal diseases.
+
+The development of AI algorithms involves training machine learning models using annotated datasets of dental radiographs. These models will be capable of identifying regions of interest corresponding to the alveolar bone and teeth, as well as quantifying bone loss percentage and detecting patterns of bone loss.
+
+Through collaboration with dental professionals and experts in AI and medical imaging, we aim to create a robust and reliable AI system that can assist dentists in making more accurate diagnoses and treatment plans for periodontal diseases. This research has the potential to revolutionize the way periodontal diseases are diagnosed and managed, ultimately improving patient outcomes and oral health.
+
+<!-- 
 ## Related works
 
 ## Methodology
@@ -58,7 +65,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Conclusion
 
 ## Publications
-[//]: # "Note: Uncomment each once you uploaded the files to the repository"
+[//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
 
 <!-- 1. [Semester 7 report](./) -->
 <!-- 2. [Semester 7 slides](./) -->
