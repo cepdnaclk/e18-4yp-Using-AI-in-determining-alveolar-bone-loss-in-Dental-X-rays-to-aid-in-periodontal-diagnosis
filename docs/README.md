@@ -56,10 +56,10 @@ Through collaboration with dental professionals and experts in AI and medical im
 
 ## Objectives
 
-### General objective
+#### General objective
 To develop, implement, and evaluate an Artificial Intelligence (AI) algorithm capable of accurately identifying and quantifying alveolar bone loss in dental radiograph images, marking the percentage of bone loss for each affected tooth, and distinguishing between horizontal and angular patterns of bone loss.
 
-### Specific objectives
+#### Specific objectives
 1. Develop a database of images including intraoral periapical images (IOPA) and dental panoramic tomography images (DPT)
 2. Develop and evaluate machine learning algorithms capable of accurately identifying and quantifying alveolar bone loss in dental panoramic tomography images
 3. Enhance selected ML algorithms to identify distinct patterns of bone loss, specifically distinguishing between horizontal and angular patterns.
