@@ -33,6 +33,6 @@ Through collaboration with dental professionals and experts in AI and medical im
 
 ## Links
 
-1. [Project Page](https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis)
-2. [Github Repo](https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis)
+1. [Project Page](https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis)
+2. [Github Repo](https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis)
 3. [Department of Computer Engineering](http://www.ce.pdn.ac.lk)
