@@ -28,7 +28,8 @@ title: AI-assisted analysis of dental radiographs for detection of alveolar bone
 #### Table of content
 
 1. [Project Summary](#project-summary)
-2. [Links](#links)
+2. [Objectives](#objectives)
+3. [Links](#links)
 
 ---
 
