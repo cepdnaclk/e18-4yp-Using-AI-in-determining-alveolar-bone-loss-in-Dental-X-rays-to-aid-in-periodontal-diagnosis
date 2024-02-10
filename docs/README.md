@@ -53,6 +53,18 @@ The development of AI algorithms involves training machine learning models using
 
 Through collaboration with dental professionals and experts in AI and medical imaging, we aim to create a robust and reliable AI system that can assist dentists in making more accurate diagnoses and treatment plans for periodontal diseases. This research has the potential to revolutionize the way periodontal diseases are diagnosed and managed, ultimately improving patient outcomes and oral health.
 
+## Objectives
+
+### General objective
+To develop, implement, and evaluate an Artificial Intelligence (AI) algorithm capable of accurately identifying and quantifying alveolar bone loss in dental radiograph images, marking the percentage of bone loss for each affected tooth, and distinguishing between horizontal and angular patterns of bone loss.
+
+### Specific objectives
+1. Develop a database of images including intraoral periapical images (IOPA) and dental panoramic tomography images (DPT)
+2. Develop and evaluate machine learning algorithms capable of accurately identifying and quantifying alveolar bone loss in dental panoramic tomography images
+3. Enhance selected ML algorithms to identify distinct patterns of bone loss, specifically distinguishing between horizontal and angular patterns.
+4. Implement functionality to detect the presence of bone loss and percentage in radiographs
+
+
 <!-- 
 ## Related works
 
