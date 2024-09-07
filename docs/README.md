@@ -28,7 +28,7 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 
 ## Project Summary
 
-
+![Intraoral Periapical Radiograph (IOPA)](./images/IOPA.jpg) 
 ## Links
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
