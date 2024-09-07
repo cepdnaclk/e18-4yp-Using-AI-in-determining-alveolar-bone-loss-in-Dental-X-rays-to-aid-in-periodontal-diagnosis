@@ -27,6 +27,19 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 - Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)] 
 
 ## Project Summary
+This project focuses on leveraging Artificial Intelligence (AI) to enhance the diagnosis of periodontal disease by accurately determining alveolar bone loss from dental X-rays. Periodontal disease, a major cause of tooth loss, is often diagnosed by evaluating bone loss around teeth using periapical radiographs. Traditionally, this assessment requires manual interpretation by dental professionals, which may result in variability and potential human error.
+
+The goal of this project is to develop an AI-powered solution capable of analyzing dental X-rays with high precision to measure alveolar bone loss. By training machine learning models on annotated radiographic datasets, the AI system will learn to detect patterns indicative of bone degradation and calculate the percentage of bone loss. This system will not only assist in diagnosing periodontitis but also provide a standardized, consistent, and efficient method for monitoring disease progression.
+
+Key components of the project include:
+1. Dataset Preparation: Collecting and annotating dental X-rays with information on bone loss.
+2. AI Model Development: Training machine learning algorithms, such as convolutional neural networks (CNNs), to recognize bone loss in radiographs.
+3. Validation and Testing: Evaluating the model's accuracy in real-world clinical settings to ensure reliable performance.
+4. User Interface: Developing a user-friendly interface that allows dental professionals to upload radiographs, obtain AI-generated bone loss assessments, and receive treatment recommendations.
+
+The AI system aims to assist dentists by reducing diagnostic errors, improving early detection of periodontitis, and enhancing treatment outcomes. This project has the potential to revolutionize periodontal diagnosis and pave the way for more precise and timely dental care.
+
+#### This is an example of intraoral periapical (IOPA) radiograph image. 
 
 ![Intraoral Periapical Radiograph (IOPA)](./images/IOPA.jpg) 
 ## Links
