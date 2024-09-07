@@ -11,6 +11,7 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 
 # Using AI in determining alveolar bone loss in Dental X-rays to aid in periodontal diagnosis
 
+
 #### Team
 
 - E/18/297 Piumal Rathnayake [[Website](https://people.ce.pdn.ac.lk/students/e18/297), [Email](mailto:e18297@eng.pdn.ac.lk)]
@@ -25,46 +26,7 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 - Dr. Dhanushka L Bandara [[Website](https://dental.pdn.ac.lk/Oral%20Medicine/Dr.Lewkebandara.php), [Email](mailto:dhanulb@dental.pdn.ac.lk)]
 - Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)] 
 
-#### Table of content
-
-1. [Abstract](#abstract)
-2. [Related works](#related-works)
-3. [Methodology](#methodology)
-4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-5. [Results and Analysis](#results-and-analysis)
-6. [Conclusion](#conclusion)
-7. [Publications](#publications)
-8. [Links](#links)
-
----
-
-<!-- 
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png) 
--->
-
-
-## Abstract
-
-## Related works
-
-## Methodology
-
-## Experiment Setup and Implementation
-
-## Results and Analysis
-
-## Conclusion
-
-## Publications
-[//]: # "Note: Uncomment each once you uploaded the files to the repository"
-
-<!-- 1. [Semester 7 report](./) -->
-<!-- 2. [Semester 7 slides](./) -->
-<!-- 3. [Semester 8 report](./) -->
-<!-- 4. [Semester 8 slides](./) -->
-<!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
+## Project Summary
 
 
 ## Links
