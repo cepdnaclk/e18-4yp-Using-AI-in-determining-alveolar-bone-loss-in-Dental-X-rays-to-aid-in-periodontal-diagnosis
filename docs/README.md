@@ -26,23 +26,20 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 - Dr. Dhanushka L Bandara [[Website](https://dental.pdn.ac.lk/Oral%20Medicine/Dr.Lewkebandara.php), [Email](mailto:dhanulb@dental.pdn.ac.lk)]
 - Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)] 
 
-## Project Summary
-This project focuses on leveraging Artificial Intelligence (AI) to enhance the diagnosis of periodontal disease by accurately determining alveolar bone loss from dental X-rays. Periodontal disease, a major cause of tooth loss, is often diagnosed by evaluating bone loss around teeth using periapical radiographs. Traditionally, this assessment requires manual interpretation by dental professionals, which may result in variability and potential human error.
+## 📚 Publication
 
-The goal of this project is to develop an AI-powered solution capable of analyzing dental X-rays with high precision to measure alveolar bone loss. By training machine learning models on annotated radiographic datasets, the AI system will learn to detect patterns indicative of bone degradation and calculate the percentage of bone loss. This system will not only assist in diagnosing periodontitis but also provide a standardized, consistent, and efficient method for monitoring disease progression.
+This project has been published. Please find the publication details below:
 
-Key components of the project include:
-1. Dataset Preparation: Collecting and annotating dental X-rays with information on bone loss.
-2. AI Model Development: Training machine learning algorithms, such as convolutional neural networks (CNNs), to recognize bone loss in radiographs.
-3. Validation and Testing: Evaluating the model's accuracy in real-world clinical settings to ensure reliable performance.
-4. User Interface: Developing a user-friendly interface that allows dental professionals to upload radiographs, obtain AI-generated bone loss assessments, and receive treatment recommendations.
+1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  
+   *DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning*  
+   [🔗 View Paper]([https://doi.org/10.1234/example1](https://www.nature.com/articles/s41597-025-05906-9))
 
-The AI system aims to assist dentists by reducing diagnostic errors, improving early detection of periodontitis, and enhancing treatment outcomes. This project has the potential to revolutionize periodontal diagnosis and pave the way for more precise and timely dental care.
+2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne** 
+   *AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns*  
+   [🔗 View Paper]([https://doi.org/10.1234/example2](https://arxiv.org/abs/2506.20522))
 
-#### This is an example of intraoral periapical (IOPA) radiograph image. 
 
-![Intraoral Periapical Radiograph (IOPA)](./images/IOPA.jpg) 
-## Links
+## 🔗 Links
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
