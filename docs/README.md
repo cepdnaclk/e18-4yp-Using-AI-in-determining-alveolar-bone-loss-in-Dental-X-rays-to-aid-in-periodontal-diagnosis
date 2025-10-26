@@ -32,11 +32,11 @@ This project has been published. Please find the publication details below:
 
 1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  
    *DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning*  
-   [🔗 View Paper]([https://doi.org/10.1234/example1](https://www.nature.com/articles/s41597-025-05906-9))
+   [View Paper](https://www.nature.com/articles/s41597-025-05906-9)
 
 2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne** 
    *AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns*  
-   [🔗 View Paper]([https://doi.org/10.1234/example2](https://arxiv.org/abs/2506.20522))
+   [View Paper](https://arxiv.org/abs/2506.20522)
 
 
 ## 🔗 Links
