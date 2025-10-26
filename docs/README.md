@@ -30,11 +30,11 @@ title: Using AI in determining alveolar bone loss in Dental X-rays to aid in per
 
 This project has been published. Please find the publication details below:
 
-1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  
+1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  <br>
    *DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning*  
    [View Paper](https://www.nature.com/articles/s41597-025-05906-9)
 
-2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne** 
+2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne** <br>
    *AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns*  
    [View Paper](https://arxiv.org/abs/2506.20522)
 
