@@ -13,9 +13,22 @@ ___
 2. Dr. Isuru Nawinne [[Website](https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/), [Email](mailto:isurunawinne@eng.pdn.ac.lk)]
 3. Dr. Sumudu Rasnayake [[Website](https://dental.pdn.ac.lk/Prosthetic/Dr.sumudu.php), [Email](mailto:srasnayaka@dental.pdn.ac.lk)]
 4. Dr. Dhanushka L Bandara [[Website](https://dental.pdn.ac.lk/Oral%20Medicine/Dr.Lewkebandara.php), [Email](mailto:dhanulb@dental.pdn.ac.lk)] 
-5. Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)] 
+5. Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)]
 
-## Links
+## 📚 Publication
+
+This project has been published. Please find the publication details below:
+
+1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  
+   *DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning*  
+   [View Paper](https://www.nature.com/articles/s41597-025-05906-9)
+
+2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne** 
+   *AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns*  
+   [View Paper](https://arxiv.org/abs/2506.20522)
+
+
+## 🔗Links
 
 1. [Project Page](https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis)
 2. [Github Repo](https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis)
