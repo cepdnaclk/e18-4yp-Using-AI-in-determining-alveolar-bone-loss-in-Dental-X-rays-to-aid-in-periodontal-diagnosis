@@ -15,17 +15,20 @@ ___
 4. Dr. Dhanushka L Bandara [[Website](https://dental.pdn.ac.lk/Oral%20Medicine/Dr.Lewkebandara.php), [Email](mailto:dhanulb@dental.pdn.ac.lk)] 
 5. Assoc. Prof. Vajira Thambawita [[Website](https://www.simula.no/people/vajira/), [Email](mailto:vajira@simula.no)]
 
+
 ## 📚 Publication
 
 This project has been published. Please find the publication details below:
 
-1. **Sumudu Rasnayaka, Dhanushka Leuke Bandara, Amali Jayasundara, Ruwan Jayasinghe, Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Roshan Ragel, Vajira Thambawita, and Isuru Nawinne**  <br>
-   *DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning*  
-   [View Paper](https://www.nature.com/articles/s41597-025-05906-9)
+1. Rasnayaka S., Bandara D.L., Jayasundara A., Jayasinghe R., Wimalasiri C., Rathnayake P., Wijerathne S., Ragel R., Thambawita V., Nawinne I.  
+   **DenPAR: Annotated Intra-Oral Periapical Radiographs Dataset for Machine Learning**  
+   *Scientific Data* (Nature Portfolio), 2025.  
+   https://www.nature.com/articles/s41597-025-05906-9  
 
-2. **Chathura Wimalasiri, Piumal Rathnayake, Shamod Wijerathne, Sumudu Rasnayaka, Dhanushka Leuke Bandara, Roshan Ragel, Vajira Thambawita, Isuru Nawinne**<br>
-   *AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns*  
-   [View Paper](https://arxiv.org/abs/2506.20522)
+2. Wimalasiri C., Rathnayake P., Wijerathne S., Rasnayaka S., Bandara D.L., Ragel R., Thambawita V., Nawinne I.  
+   **AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**  
+   *Scientific Reports* (Nature Portfolio), 2026.  
+   https://www.nature.com/articles/s41598-026-38061-1
 
 
 ## 🔗Links
